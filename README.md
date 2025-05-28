@@ -40,6 +40,5 @@ AssignMaster is a terminal application that can be used to manage various projec
 
 6. Go to the output directory and run the application.
 
-    `cd path/to/output/directory`
-
+    `cd path/to/output/directory` <br>
     `java -cp ../lib/mysql-connector-j-8.3.0.jar:. AssignMaster` 
